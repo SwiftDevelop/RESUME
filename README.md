@@ -27,6 +27,7 @@
 
 * [스타일뷰](https://apps.apple.com/kr/app/스타일뷰-styleview/id1181523981)
 <img alt="스타일뷰 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/bc/b4/99bcb451-4d7c-c044-930c-0f668a834656/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.png" width="200">
+
   - 참여 : 앱 기획(50%), UI/UX 디자인 기획(70%), iOS 앱 개발(100%)
   - 사용언어 : Swift
   - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Google SDK 등
