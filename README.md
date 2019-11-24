@@ -55,7 +55,7 @@
   - AutoLayout, Storyboard, WebKit, Kakao SDK, 등
   - 현재는 OK캐쉬백으로 포함되어 앱스토어에서 앱 내림
     
-<img alt="로또코드 이미지" src="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/b5/2e/c0b52e62-387f-c5a3-83bd-54720e4efca8/source/512x512bb.jpg" width="200">
+<img alt="로또코드 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/6f/7e/996f7ec6-ab96-89e8-61c1-60cb6fd7cc3c/AppIcon-0-1x_U007emarketing-0-85-220-7.png/230x0w.png" width="200">
 
 * [로또코드](https://apps.apple.com/kr/app/로또코드/id1017249216)
   - 참여 : 기획(30%), 개발(100%)
