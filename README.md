@@ -31,3 +31,5 @@
   - 참여 : 앱 기획(50%), UI/UX 디자인 기획(70%), iOS 앱 개발(100%)
   - 사용언어 : Swift
   - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Google SDK 등
+
+<img alt="코디특공대 이미지" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/02/69/da/0269da71-cb23-0763-a525-ed76838e7000/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png" width="200">
