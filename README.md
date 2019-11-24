@@ -75,3 +75,11 @@
 * iOS 프로그래밍 기초 강의 (2015. 10 ~ 2015. 12)
 * University of Central Oklahoma TLC (2013. 12 ~ 2014. 02)
 * Australia Sydney ILSC Upper Intermediate (2011. 09 ~ 2012. 02)
+
+# 학력
+* 부산외국어대학교 컴퓨터공학과 졸업 (2008. 03 ~ 2015. 08)
+* 울산중앙고등학교 졸업 (2005. 02 ~ 2008. 02)
+
+# 그외
+* 일본어 일상회화 가능
+* 블로그 : https://jplanet89.tistory.com
