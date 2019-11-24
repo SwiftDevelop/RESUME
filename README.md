@@ -46,3 +46,5 @@
     - 참여 : iOS 앱 개발(100%)
     - 사용언어 :  Swift
     - WebKit, Kingfisher 등
+    
+<img alt="코디특공대 이미지" src="https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/e6/a1/e9/e6a1e958-b810-9936-c36b-a1de705c920e/mzl.yzwvkhut.png/230x0w.png" width="200">
