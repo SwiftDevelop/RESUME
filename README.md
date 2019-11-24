@@ -30,15 +30,19 @@
 * [스타일뷰](https://apps.apple.com/kr/app/스타일뷰-styleview/id1181523981)
   - 참여 : 앱 기획(50%), UI/UX 디자인 기획(70%), iOS 앱 개발(100%)
   - 사용언어 : Swift
-  - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Google SDK, Keychain, FaceID 등
+  - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Google SDK, Keychain, FaceID, WebKit 등
+  - 최초 외주를 통해 Objective-C 언어로 개발 되어 있었고, Swift로 Convert 하였습니다. 후에 새로 기획을 하여 완전히 새로운 앱으로 탄생하였습니다.
   
 <img alt="코디특공대 이미지" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/02/69/da/0269da71-cb23-0763-a525-ed76838e7000/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png" width="200">
 
 * [코디특공대](https://apps.apple.com/kr/app/코디특공대/id1262951849)
   - 참여 : iOS 앱 개발(100%)
   - 사용언어 : Swift
-  - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Naver SDK  등
+  - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Naver SDK, WebKit  등
   
 <img alt="코디특공대 이미지" src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/35/6b/ef356b40-fec0-52b9-8e61-f69848cae7eb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png" width="200">
   
   * [FS App](https://apps.apple.com/kr/app/fs-app/id1451163197)
+    - 참여 : iOS 앱 개발(100%)
+    - 사용언어 :  Swift
+    - WebKit, Kingfisher 등
