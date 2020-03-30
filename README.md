@@ -14,13 +14,13 @@
 
 * [이노티브아이엔씨](https://innotiveinc.co.kr)
   - iOS Developer, 대리
-  - 기간 : 2017. 03 ~
+  - 기간 : 2017. 03. 20 ~ 2020. 03. 18
 * [온동네청년들]
   - Application Developer, 선임
   - 기간 : 2016. 12 ~ 2017. 03
 * [(주)픽스](https://www.fixinc.co.kr/html/00_main/)
-  - iOS Developer, 사원
-  - 기간 : 2015. 06 ~ 2015. 10
+  - iOS Developer, 주임
+  - 기간 : 2015. 04. 01 ~ 2015. 09. 30
   
   
 # 프로젝트
