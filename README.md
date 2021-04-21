@@ -50,7 +50,7 @@ iOS 개발은 저의 꿈이었고, 꿈을 이룬 지금 더 멋진 앱과 코드
   - 사용언어 : Swift
   - Storyboard, AutoLayout, UserDefaults, Kingfisher, Alamofire, SNS SDK 등
 
-<img alt="서울소식 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/bc/b4/99bcb451-4d7c-c044-930c-0f668a834656/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.png" width="200">
+<img alt="서울소식 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/20/58/de/2058de11-f351-d085-8bdc-667b64cc0b0d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="200">
 
 * [서울소식](https://apps.apple.com/kr/app/서울소식-seoul-so-chic-옷이-아닌-스타일/id1485191280)
   - 사용언어 : Swift
