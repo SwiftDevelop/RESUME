@@ -9,7 +9,8 @@
 * 담당 : iOS Developer
 * 보유스킬 : iOS, Swift, Objective-C, CococaPods, Carthage, AutoLayout, Storyboard
 
-저는 항상 더 나은 iOS 앱을 개발하고자 늘 배우고, 적용하려고 노력하고 있습니다. iOS 분야 만큼은 누구에게도 밀리지 않는 멋진 프로그래머가 되고 싶습니다.
+늘 부족함을 인정하고 기초라도 무시하지 않으며 자신의 자리에서 최선을 다하며 앞으로르 향해 달려나가는 iOS 개발자입니다.
+iOS 개발은 저의 꿈이었고, 꿈을 이룬 지금 더 멋진 앱과 코드를 만드는 것과 모두와 정보를 공유하는 것이 즐겁습니다.
 
 # 경력
 * [티몬](https://www.tmon.co.kr)
