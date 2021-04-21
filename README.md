@@ -49,6 +49,13 @@
   - 사용언어 : Swift
   - Storyboard, AutoLayout, UserDefaults, Kingfisher, Alamofire, SNS SDK 등
 
+<img alt="서울소식 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/bc/b4/99bcb451-4d7c-c044-930c-0f668a834656/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.png" width="200">
+
+* [서울소식](https://apps.apple.com/kr/app/서울소식-seoul-so-chic-옷이-아닌-스타일/id1485191280)
+  - 사용언어 : Swift
+  - Storyboard, AutoLayout, UserDefaults, Kingfisher, Alamofire, SNS SDK 등
+  - 기존에 만들어져 있더 코드의 오류를 모두 수정하고 기획에 따른 개발 진행
+
 <img alt="스타일뷰 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/bc/b4/99bcb451-4d7c-c044-930c-0f668a834656/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.png" width="200">
 
 * [스타일뷰](https://apps.apple.com/kr/app/스타일뷰-styleview/id1181523981)
