@@ -7,7 +7,7 @@
 * Github : [github.com/SwiftDevelop](https://github.com/SwiftDevelop)
 * 블로그 : https://jplanet89.tistory.com
 * 담당 : iOS Developer
-* 보유스킬 : iOS, Swift, Objective-C, Git, CococaPods, Carthage, AutoLayout, Storyboard
+* 보유스킬 : iOS, Swift, Objective-C, CococaPods, Carthage, AutoLayout, Storyboard
 
 저는 항상 더 나은 iOS 앱을 개발하고자 늘 배우고, 적용하려고 노력하고 있습니다. iOS 분야 만큼은 누구에게도 밀리지 않는 멋진 프로그래머가 되고 싶습니다.
 
