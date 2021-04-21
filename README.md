@@ -32,7 +32,7 @@
 <img alt="티몬 이미지" src="https://play-lh.googleusercontent.com/DAmEKkHK-zVdEqYUKXTOOf7L2jA1soeK5uH9MHoPhAsH6SRvCklpgyApdEuDt_No9lQ" width="200">
 
 * [티몬](https://apps.apple.com/us/app/타임커머스-티몬/id463434588)
-  - 사용언어 : swift, Objective-C
+  - 사용언어 : Swift, Objective-C
   - Storyboard, AutoLayout, SDWebImage, ObjectMapper, Alamofire, Socket.IO, AppsFlyer, RxSwift, SwiftLint 등
   - 코드 워닝 이슈 정리, 홈의 각 탭 검색, 카테고리 내 검색, 공유딜, 채팅상담, 스몰톡, Objective-C convert to Swift, 외 이슈 처리 및 유지보수
 
