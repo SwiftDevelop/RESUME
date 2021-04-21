@@ -35,6 +35,13 @@
   - Storyboard, AutoLayout, SDWebImage, ObjectMapper, Alamofire, Socket.IO, AppsFlyer, RxSwift, SwiftLint 등
   - 코드 워닝 이슈 정리, 홈의 각 탭 검색, 카테고리 내 검색, 공유딜, 채팅상담, 스몰톡, Objective-C convert to Swift, 외 이슈 처리 및 유지보수
 
+<img alt="타임워치 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/68/3a/14/683a14a9-232b-f058-48c1-e88a31040203/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png" width="200">
+
+* [타임워치](https://apps.apple.com/us/app/타임워치/id1477282306)
+  - 사용언어 : Swift
+  - Storyboard, AutoLayout, ObjectMapper, SDWebImage, SwiftLint, RxSwift, RxCocoa, Firebase, AppsFlyer, LocalNotification 등
+  - 티몬 입사 후 이슈 및 유지보수 전담, 지역, 날씨 및 미세먼지 정보 추가, Push Notification 오류 수정, 외 코드 개선
+
 <img alt="스타일뷰 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/bc/b4/99bcb451-4d7c-c044-930c-0f668a834656/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.png" width="200">
 
 * [스타일뷰](https://apps.apple.com/kr/app/스타일뷰-styleview/id1181523981)
