@@ -33,8 +33,8 @@
 
 * [티몬](https://apps.apple.com/us/app/타임커머스-티몬/id463434588)
   - 사용언어 : Swift, Objective-C
-  - Storyboard, AutoLayout, SDWebImage, ObjectMapper, Alamofire, Socket.IO, AppsFlyer, RxSwift, SwiftLint 등
-  - 코드 워닝 이슈 정리, 홈의 각 탭 검색, 카테고리 내 검색, 공유딜, 채팅상담, 스몰톡, Objective-C convert to Swift, 외 이슈 처리 및 유지보수
+  - Storyboard, AutoLayout, SnapKit, SDWebImage, ObjectMapper, Alamofire, Socket.IO, AppsFlyer, RxSwift, SwiftLint 등
+  - 메인 화면 개편, 티몬캐시, 홈의 각 탭 검색, 카테고리 내 검색, 공유딜, 채팅상담, 스몰톡, Objective-C convert to Swift, 외 이슈 처리 및 유지보수
 
 <img alt="타임워치 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/68/3a/14/683a14a9-232b-f058-48c1-e88a31040203/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png" width="200">
 
