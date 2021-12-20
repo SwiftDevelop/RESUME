@@ -63,7 +63,7 @@
   - 참여 : 앱 기획(50%), UI/UX 디자인 기획(70%), iOS 앱 개발(100%)
   - 사용언어 : Swift
   - AutoLayout, Storyboard, Kingfisher, UserDefaults, Firebase, Kakao SDK, Facebook SDK, Google SDK, Keychain, FaceID, WebKit 등
-  - 최초 외주를 통해 Objective-C 언어로 개발 되어 있었고, Swift로 Convert 하였습니다. 후에 새로 기획을 하여 완전히 새로운 앱으로 탄생하였습니다.
+  - 최초 외주를 통해 Objective-C 언어로 개발 되어 있었고, Swift로 Convert 하였습니다. 후에 개편 기획을 하여 완전히 새로운 앱으로 탄생.
   
 <img alt="코디특공대 이미지" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/02/69/da/0269da71-cb23-0763-a525-ed76838e7000/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png" width="200">
 
@@ -85,7 +85,7 @@
   - 참여 : iOS 앱 개발(100%)
   - 사용언어 : Swift
   - AutoLayout, Storyboard, WebKit, Kakao SDK, 등
-  - 현재는 OK캐쉬백으로 포함되어 앱스토어에서 앱 내림
+  - 현재는 OK캐쉬백으로 포함되어 앱스토어에서 앱 판매중단
     
 <img alt="로또코드 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/6f/7e/996f7ec6-ab96-89e8-61c1-60cb6fd7cc3c/AppIcon-0-1x_U007emarketing-0-85-220-7.png/230x0w.png" width="200">
 
@@ -101,7 +101,7 @@
   - 사용언어 : Swift
   - AutoLayout, Storyboard, Drawing Line 등
   - 최초 Swift 언어를 이용하여 개발한 앱이자, 첫 앱스토어 출시 앱
-  - 누적 다운로드 수 약 20.1K
+  - 누적 다운로드 수 약 28.1K (2021. 12)
     
 # 활동
 * iOS 프로그래밍 기초 강의 (2015. 10 ~ 2015. 12)
