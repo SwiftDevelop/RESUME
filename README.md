@@ -29,11 +29,12 @@
   
   
 # 프로젝트
-<img alt="티몬 이미지" src="https://play-lh.googleusercontent.com/DAmEKkHK-zVdEqYUKXTOOf7L2jA1soeK5uH9MHoPhAsH6SRvCklpgyApdEuDt_No9lQ](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/c0/4d/59c04dd4-9c43-39ea-c803-c20efe0d562a/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/460x0w.webp)" width="200">
+<img alt="티몬 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/c0/4d/59c04dd4-9c43-39ea-c803-c20efe0d562a/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/460x0w.webp" width="200">
 
 * [위메프플러스](https://apps.apple.com/kr/app/위메프플러스/id6462017940)
   - 사용언어 : Swift, SwiftUI
-  - Storyboard, Tuist, Alamofire, Kingfisher, SnapKit, firebase, CocoaPods, SwiftLint, 
+  - Storyboard, Tuist, Alamofire, Kingfisher, SnapKit, firebase, CocoaPods, SwiftLint, WebKit, Combine 등
+  - UI 관련 모듈 전체 담당, 통합 화면 전환 관리, 이슈 처리 및 유지보수
 
 <img alt="티몬 이미지" src="https://play-lh.googleusercontent.com/DAmEKkHK-zVdEqYUKXTOOf7L2jA1soeK5uH9MHoPhAsH6SRvCklpgyApdEuDt_No9lQ" width="200">
 
