@@ -29,7 +29,22 @@
   
   
 # 프로젝트
-<img alt="티몬 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/c0/4d/59c04dd4-9c43-39ea-c803-c20efe0d562a/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/460x0w.webp" width="200">
+
+<img alt="인터파크쇼핑 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/57/ef/e157ef86-1db9-2fe4-632a-b1539271d9f9/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/460x0w.webp" width="200">
+
+* [인터파크쇼핑](https://apps.apple.com/kr/app/인터파크-쇼핑/id1660675748)
+  - 사용언어 : Swift, SwiftUI
+  - Storyboard, Tuist, Alamofire, Kingfisher, SnapKit, firebase, CocoaPods, SwiftLint, WebKit, Combine 등
+  - UI 관련 모듈 전체 담당, 통합 화면 전환 관리, 이슈 처리 및 유지보수
+
+<img alt="인팍쇼핑 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/fb/3e/adfb3e9c-88ac-c95f-4237-59c6f88e3b3e/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/460x0w.webp" width="200">
+
+* [인팍쇼핑](https://apps.apple.com/kr/app/인팍쇼핑/id6476555548)
+  - 사용언어 : Swift, SwiftUI
+  - Storyboard, Tuist, Alamofire, Kingfisher, SnapKit, firebase, CocoaPods, SwiftLint, WebKit, Combine 등
+  - UI 관련 모듈 전체 담당, 통합 화면 전환 관리, 이슈 처리 및 유지보수
+
+<img alt="위메프플러스 이미지" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/c0/4d/59c04dd4-9c43-39ea-c803-c20efe0d562a/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/460x0w.webp" width="200">
 
 * [위메프플러스](https://apps.apple.com/kr/app/위메프플러스/id6462017940)
   - 사용언어 : Swift, SwiftUI
